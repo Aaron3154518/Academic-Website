@@ -24,10 +24,7 @@ advanced:
   css_style:
   css_class: fullscreen
 ---
-
-# Profile picture
-image: profile.png # put image file in assets/images/
-image_darken: .6
+![](profile.png)
 
 ## My Mission
 
@@ -46,8 +43,8 @@ Did a lot of cool stuff at Generic Company.
 
 ## Education
 
-### Random University
-#### B.S. Computer Science • Jan 2005 - Jan 2010 • Cleveland, OH, USA
+### [Case Western Reserve University](https://case.edu/)
+#### B.S. Computer Science • Aug 2020 - May 2024 • Cleveland, OH, USA
 
 Currently attending.
 
