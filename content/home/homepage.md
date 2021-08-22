@@ -53,6 +53,6 @@ Currently attending.
 [{{< icon name="envelope" pack="fas" >}}Email](mailto:aaoren210@gmail.com)
 
 ## View more
-[{{< icon name="cv" pack="ai" >}}Resume](uploads/resume.pdf)
+[{{< icon name="cv" pack="ai" link="uploads/resume.pdf">}}Resume](uploads/resume.pdf)
 [{{< icon name="github" pack="fab" >}}GitHub](https://github.com/Aaron3154518)
 [{{< icon name="linkedin" pack="fab" >}}LinkedIn](https://www.linkedin.com/in/aaron-orenstein-485084188/) 
