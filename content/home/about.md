@@ -4,10 +4,10 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget: blank  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
+headless: false  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 
-title: "Work in Progress"
+title: "About Me"
 subtitle: ""
 
 design:
@@ -55,5 +55,6 @@ Currently attending.
 [{{< icon name="envelope" pack="fas" >}}Email](mailto:aaoren210@gmail.com)
 
 ## View more
+[{{< icon name="cv" pack="ai" link="uploads/resume.pdf">}}Resume](uploads/resume.pdf)
 [{{< icon name="github" pack="fab" >}}GitHub](https://github.com/Aaron3154518)
 [{{< icon name="linkedin" pack="fab" >}}LinkedIn](https://www.linkedin.com/in/aaron-orenstein-485084188/) 
