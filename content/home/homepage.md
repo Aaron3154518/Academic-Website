@@ -19,7 +19,10 @@ design:
     #   Choose a light or dark text color by setting `text_color_light`.
     #   Any HTML color name or Hex value is valid.
     gradient_start: '#00a2ff'
-    gradient_end: '#00b7ff'
+    gradient_end: '#59d0ff'
+	# Profile picture
+	image: profile.png # put image file in assets/images/
+	image_darken: .6
 advanced:
   css_style:
   css_class: fullscreen
