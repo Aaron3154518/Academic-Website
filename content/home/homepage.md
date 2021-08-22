@@ -24,7 +24,7 @@ advanced:
   css_style:
   css_class: fullscreen
 ---
-![test](profile.png "test")
+[test](profile.png "test")
 
 ## My Mission
 
