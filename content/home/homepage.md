@@ -7,7 +7,7 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 
-title: "👋 Hollie Beau is the Chief Data Officer at Tidbit Games in Shanghai."
+title: "Work in Progress"
 subtitle: ""
 
 design:
@@ -18,15 +18,9 @@ design:
     #   Uncomment (by removing `#`) an option to apply it.
     #   Choose a light or dark text color by setting `text_color_light`.
     #   Any HTML color name or Hex value is valid.
-    # color: navy
-    # gradient_start: DarkGreen
-    # gradient_end: ForestGreen
-    image: hello.jpg  # Name of image in `static/media/`.
-    image_darken: 0.4
-    image_size: cover
-    image_position: right
-    image_parallax: true
-    text_color_light: true
+    color: navy
+    gradient_start: DarkGreen
+    gradient_end: ForestGreen
 advanced:
   css_style:
   css_class: fullscreen
@@ -34,36 +28,27 @@ advanced:
 
 ## My Mission
 
-Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
+Trying to build an academic template.
 
 ## Specialties
 
-Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+Gotta figure this out.
 
 ## Experience
 
-### Tidbit Games
-#### Chief Data Officer • Jan 2015 - Current • Shanghai
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### Generic Company
+#### CEO • March 2020 - March 2021 • Boise, ID, USA   
 
-
-### AI Soup
-#### Research Manager • Jan 2010 - Jan 2015 • Beijing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Did a lot of cool stuff at Generic Company.
 
 ## Education
 
-### Tsinghua University
-#### PhD AI • Jan 2005 - Jan 2010 • Beijing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### Random University
+#### B.S. Computer Science • Jan 2005 - Jan 2010 • Cleveland, OH, USA
 
+Currently attending.
 
 ## Get in Touch
 
-[{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)
-[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
-{{< icon name="weixin" pack="fab" >}}微信用户名  
-
-## Credits
-
-[Demo background image](https://unsplash.com/photos/mNSOLgnDGzA)
+[{{< icon name="envelope" pack="fas" >}}Email](mailto:aaoren210@gmail.com)
+[{{< icon name="linkedin" pack="fab" >}}LinkedIn](https://www.linkedin.com/in/aaron-orenstein-485084188/)  
