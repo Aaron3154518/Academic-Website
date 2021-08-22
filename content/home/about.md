@@ -18,7 +18,7 @@ education:
   courses:
   - course: B.S. in Computer Science
     institution: Case Western Reserve University
-	year: Currently Attending
+    year: Currently Attending
 
 social:
 - icon: envelope
