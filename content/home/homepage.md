@@ -26,6 +26,8 @@ advanced:
 ---
 ![screen reader text](icon.jpg "caption")
 
+{{<figure src="profile.png" caption="caption">}}
+
 ## My Mission
 
 Trying to build an academic template.
