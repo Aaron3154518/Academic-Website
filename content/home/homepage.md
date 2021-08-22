@@ -20,13 +20,14 @@ design:
     #   Any HTML color name or Hex value is valid.
     gradient_start: '#00a2ff'
     gradient_end: '#59d0ff'
-	# Profile picture
-	image: profile.png # put image file in assets/images/
-	image_darken: .6
 advanced:
   css_style:
   css_class: fullscreen
 ---
+
+# Profile picture
+image: profile.png # put image file in assets/images/
+image_darken: .6
 
 ## My Mission
 
