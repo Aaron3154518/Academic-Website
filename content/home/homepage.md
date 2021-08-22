@@ -24,7 +24,7 @@ advanced:
   css_style:
   css_class: fullscreen
 ---
-[test](profile.png "test")
+![screen reader text](icon.jpg "caption")
 
 ## My Mission
 
